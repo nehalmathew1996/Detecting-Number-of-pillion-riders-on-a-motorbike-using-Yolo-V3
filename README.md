@@ -4,7 +4,7 @@ This is a demo project that showcases how yolo algorithm is used to detect if th
 
 ## Prerequisites to run Files
 The libraries required to run the project are specified in requirements.txt file.
-Additionally you will have to download coco.weights which is not in this document because it is a 273 mb file.
+Additionally you will have to download coco.weights which is not in this document because it is a 236 mb file.
 
 ## Project Structure
 This project can be run opening Yolo.py file.
