@@ -1,6 +1,5 @@
 # Detecting-Number-of-pillion-riders-on-a-motorbike-using-Yolo
 
-## ML-Model-Flask-Deployment
 This is a demo project that showcases how yolo algorithm is used to detect if there is more than one pillion rider on a motorbike.
 
 ## Prerequisites to run Files
